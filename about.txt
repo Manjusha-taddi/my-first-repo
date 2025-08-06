@@ -1,0 +1,4 @@
+          ! HELLO MY NAME IS MANJUSHA TADDI !
+--I AM CURRENTLY PERSUING MY BACHELOR DEGREE IN DATASCIENCE AT ADITYA DEGREE COLLEGE--
+
+---One thing I learned about GitHub is that it's not just a place to store code — it's a powerful collaboration platform. It allows multiple developers to work on the same project simultaneously through features like branches, pull requests, and issue tracking, making teamwork on software development organized and efficient---
